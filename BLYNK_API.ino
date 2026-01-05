@@ -2,8 +2,8 @@
 #include <ArduinoHttpClient.h>
 
 /* -------- WiFi -------- */
-const char* ssid     = "Petal";
-const char* password = "Petal#2024";
+const char* ssid     = "*******";
+const char* password = "*****";
 
 /* -------- Blynk -------- */
 const char* server = "blr1.blynk.cloud";
