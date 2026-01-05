@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <ArduinoHttpClient.h>
 
-const char* ssid = "Petal";
-const char* password = "Petal#2024";
+const char* ssid = "*****";
+const char* password = "****";
 
 const char* serverIP = "192.168.1.12"; // Flask PC IP
 int port = 8080;
